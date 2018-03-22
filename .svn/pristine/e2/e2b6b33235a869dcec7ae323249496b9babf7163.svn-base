@@ -1,0 +1,9 @@
+#jdbc settings
+JDBC_URL = jdbc:mysql://127.0.0.1:3306
+JDBC_SCHEMA = /library
+JDBC_LOGIN = root
+JDBC_PASSWORD = toor
+JDBC_DRIVER_CLASS = com.mysql.jdbc.Driver
+DB = JDBC
+admin_login=admin
+admin_password=111
